@@ -1,6 +1,4 @@
-# web-security-academy-method-based-access-control-can-be-circumvented
-
-# Insecure Direct Object References
+# Method-Based Access Control Can Be Circumvented
 
 This repository is solution to assignment on Data Security Course. It is a portswigger [Lab](https://portswigger.net/web-security/access-control/lab-method-based-access-control-can-be-circumvented) which was assigned to me to solve.
 
